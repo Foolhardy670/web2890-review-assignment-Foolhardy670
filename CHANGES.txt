@@ -1,0 +1,10 @@
+TODO: List here all the changes you made to given template to adapt it to your needs
+
+I Change the art images with new ones that are more fitting to my portfolio and the new color scheme I choose.
+
+I remove all of its fake text with real text about me and my projects.
+
+I Change the colors to something else of my choosing and also kept the gradident.
+
+
+I Added two new sections of my choice to the page with Bootstrap. Those sections are: My Professional Experience and Tools & Technologies sections. 
